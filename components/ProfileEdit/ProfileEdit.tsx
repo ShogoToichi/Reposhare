@@ -1,5 +1,5 @@
 import React from "react"
-import { StyleSheet, KeyboardAvoidingView } from "react-native"
+import { StyleSheet, KeyboardAvoidingView,Platform } from "react-native"
 import ProfEdit from "./organisms/ProfEdit"
 
 const styles = StyleSheet.create({

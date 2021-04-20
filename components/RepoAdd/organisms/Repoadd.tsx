@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react"
-import { View, Pressable } from "react-native"
+import { View, Pressable,Platform } from "react-native"
 import Title from "../atoms/Title"
 import InputForm from "../molecules/InputForm"
 import AddBtn from "../atoms/AddBtn"
